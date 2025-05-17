@@ -1,3 +1,4 @@
+<img src="https://tenor.com/f32IY2SsdXw.gif" alt="I will be there" style="width:100%; height:100%;">
 
 
 <h1 align="center">Hi 👋, I'm Bakare Samuel</h1>
